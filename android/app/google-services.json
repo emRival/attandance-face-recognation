@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94202097746",
+    "project_id": "attandance-face-recognation",
+    "storage_bucket": "attandance-face-recognation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94202097746:android:9e66360dd74d886b352f8b",
+        "android_client_info": {
+          "package_name": "com.example.attandance_face_recognation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjdM2oSbG2rL3mia_dn42SKiH3lR-Gsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
